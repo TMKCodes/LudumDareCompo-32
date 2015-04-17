@@ -1,0 +1,7 @@
+{
+	"project": "LudumDareCompo-32",
+	"rsync": {
+		"exclude": ".git",
+		"destination": "your-server-destination"
+	}
+}
