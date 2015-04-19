@@ -1,0 +1,44 @@
+{
+	"width": 1280,
+	"height": 720,
+	"x": 0,
+	"y": 0,
+	"sprite": "",
+	"color": {
+		"r": 13,
+		"g": 61,
+		"b": 20,
+		"a": 255
+	},
+	"objects" : [
+		{
+			"x": 520,
+			"y": 320,
+			"health": 1000,
+			"sprite": "house.png",
+			"collide": true
+		},
+		{
+			"x": 150,
+			"y": 150,
+			"health": 100,
+			"sprite": "large-rock.png",
+			"collide": true
+		},
+		{
+			"x": 250,
+			"y": 600,
+			"health": 100,
+			"sprite": "small-rock.png",
+			"collide": true
+		},
+		{
+			"x": 1050,
+			"y": 150,
+			"health": 100,
+			"sprite": "small-rock.png",
+			"collide": true
+		}
+
+	]
+}
